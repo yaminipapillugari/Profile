@@ -1,0 +1,22 @@
+{
+  "details":{
+    "name":"Name:Yamini Reddy",
+    "address":"Roll no:78"
+   },
+  "object":{
+    "obj1":"Career Object",
+    "obj2":"To secure a challenging position in a reputable organization.",
+    "obj3":"Secure a responsible career opportunity to fully utilize my trainig and skills,while making a significant contribution to the success of the company.",
+    "obj4":"Seeking an entry-level position to begin my career in a high-level professional environment."
+  },
+  "object1":{
+    "obj1":"Edu Qualification",
+    "obj2":"I completed lower education in SBM high school.secondary education in ABHYAS jr college.studying B-Tech in svec.",
+    "obj3":"Tech Qualification",
+    "obj4":"My technucal qualification is computer science and systems engineeringat svec,tirupati.",
+    "obj5":"Achievements",
+    "obj6":"I got very good marks in secondary education so that i got seat in a one of the reputed college.this is one of the my achievements.",
+    "obj7":"Awards",
+    "obj8":"from the childhood onwards i got so many prizes at school.they used conduct many programs and talent tests."
+  }
+}
